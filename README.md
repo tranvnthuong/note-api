@@ -9,7 +9,7 @@ Personal project completed in 5 weeks, focusing on learning and applying Express
 ##### Technology
 - Frontend: HTML, CSS, JavaScript
 - Backend: Node.js (Express)
-- Database: MongoDB / PostgreSQL
+- Database: MongoDB
 - Authentication: JWT
 - Hosting: AWS / Vercel / Heroku
 ##### Experience
